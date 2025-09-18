@@ -1,7 +1,7 @@
 This is my new project
 
 Another thing here
-#### 1. Application setup steps
+#### 1. Application setup
 
 This is simple nodejs app starts on port 3000 and logs 1 line into elastic search which is running in a minikube cluster
 Elastic endpoint configured in Pino is the es service name in Mnikube.
